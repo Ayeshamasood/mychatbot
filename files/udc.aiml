@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  
+<category>
+    <pattern>Hello</pattern>
+    <template>Hello, how may I help you?</template>
+</category>
+
+<category>
+    <pattern>How are you</pattern>
+    <template>I am good. What about you</template>
+</category>
+<category>
+    <pattern>Hi</pattern>
+    <template>Hi,how may I help you?</template>
+</category>
+<category>
+    <pattern>how u diong</pattern>
+    <template>I am good what about u </template>
+</category>
+<category>
+    <pattern>Are you okay</pattern>
+    <template>I am good what about you</template>
+</category>
+<category>
+    <pattern>Good Morning</pattern>
+    <template>Good morning,what can I help you </template>
+</category>
+<category>
+    <pattern>Actually I am looking for a room in your hotel  So can you provide me information regarding that </pattern>
+    <template>Yes I give you  all information </template>
+</category>
+
+<category>
+    <pattern>What is the price of the room</pattern>
+    <template>100$ per day</template>
+</category>
+<category>
+    <pattern>I had booked a single room in this hotel week ago</pattern>
+    <template>give me your full detailed name and phone number</template>
+</category>
+
+<category>
+    <pattern>I would like to make a hotel reservation</pattern>
+    <template>yeah sure i give u the reservation</template>
+</category>
+
+<category>
+    <pattern>I need the room for 3 nights</pattern>
+    <template>okay 3-night room 300$ per night 100$</template>
+</category>
+<category>
+    <pattern>I want breakfast lunch dinner in this amount</pattern>
+    <template>no it's not possible more than 200$ for breakfast lunch and dinner</template>
+</category>
+<category>
+    <pattern>we need a non smoking room</pattern>
+    <template>okay I will give  you nonsmoking room </template>
+</category>
+<category>
+    <pattern>if there are any swimming pool charges do tell me this too</pattern>
+    <template>50 $ dollar for pool activity
+</template>
+</category>
+<category>
+    <pattern>give me service of transport pick up and  drop from your hotel</pattern>
+    <template>yes we are giving this service to the regular customers only</template>
+</category>
+<category>
+    <pattern>if I go too early before my check-out time can your hotel give my money back or not</pattern>
+    <template>yes of course our hotel is very honest  in this city</template>
+</category>
+<category>
+    <pattern>at what time do we checkout </pattern>
+    <template>u must be checkout at 10:00 a.m</template>
+</category>
+
+<category>
+    <pattern>what is checkout time</pattern>
+    <template>10:00 am is checkout time</template>
+</category>
+<category>
+    <pattern>I want to book for my all family members </pattern>
+    <template>yeah sure whole family members full detail u  take a package of my hotel 1000 $ for 1 week 
+</template>
+</category>
+<category>
+    <pattern>describe to me the good things in your hotel</pattern>
+    <template> good service, large comfortable beds bathrooms that are clean and shiny</template>
+</category>
+<category>
+    <pattern>can this hotel  facility satisfied for expectation</pattern>
+    <template>yes off course our hotel have   luxurious décor and carefully selected furnishings with high attention to detail</template>
+</category>
+<category>
+    <pattern>hope your hotel facilities different from other </pattern>
+    <template>unique experience food, service, and the extras
+Toiletries (e.g. Shampoo, lotion, etc.)
+Personal care (combs, shaving cream, razor, shower cap, hair dryer)
+Coffee Kit (maker, coffee and creamer)
+Tissue box.
+Bathrobes and slipper</template>
+</category>
+<category>
+    <pattern>how do I know this is a nice hotel for summer  holidays</pattern>
+    <template>yes we have a nice package for summer holidays few things are free vacations</template>
+</category>
+<category>
+    <pattern>what is checkout policy</pattern>
+    <template>Verifying the method of payment. Processing the account payment. Securing the room key</template>
+</category>
+<category>
+    <pattern>what is the price of hotel bridal package</pattern>
+    <template>the bridal package is too expensive </template>
+</category>
+<category>
+    <pattern>what is the price of the hotel bridal package</pattern>
+    <template>5000$ for 1 month</template>
+</category>
+<category>
+    <pattern>what is the average price of a honeymoon</pattern>
+    <template>5,100</template>
+</category>
+<category>
+    <pattern>did hotel service dry clean the dresses and luggage</pattern>
+    <template>yes of course   all service has separate charges</template>
+</category>
+<category>
+    <pattern>did hotel service dry clean the dresses and luggage and bedsheets</pattern>
+    <template>yes its included in packages f hotel
+</template>
+</category>
+<category>
+    <pattern>ok I think your hotel is the best hotel I will booked always your hotel</pattern>
+    <template>thanks for nice comments for my hotel</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
